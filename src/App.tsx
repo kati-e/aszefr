@@ -1,9 +1,30 @@
+import AszefrImageCarousel from "./components/aszefr-image-carousel"
+import "./globals.css"
+
 function App() {
 
+  const imgArray = [
+    {
+        url: "/assets/seal1.jpg",
+        alt: "seal 1"
+    },
+    {
+        url: "/assets/seal2.jpg",
+        alt: "seal 2"
+    },
+    {
+        url: "/assets/seal3.jpg",
+        alt: "seal 3"
+    }
+]
+
   return (
-    <>
-      <h1>ASZEFR</h1>
-    </>
+    <main className="preview-page">
+      <section className="component-preview-wrapper">
+        <h2>Image Carousel</h2>
+        <AszefrImageCarousel imgArray={imgArray}/>
+      </section>
+    </main>
   )
 }
 

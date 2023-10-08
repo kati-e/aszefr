@@ -9,5 +9,7 @@ To run the front-end, do 'npm install' then 'npm run dev'.
 
 You can use my code for whatever you want <3
 
+(Images in demos under Unsplash Licence: https://unsplash.com/license)
+
 Peace & Love,
 kati-e
