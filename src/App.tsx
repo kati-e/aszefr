@@ -1,4 +1,4 @@
-import AszefrImageCarousel from "./components/aszefr-image-carousel"
+import AszefrImageCarousel from "./components/AszefrImageCarousel"
 import "./globals.css"
 
 function App() {
