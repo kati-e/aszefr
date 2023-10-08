@@ -1,4 +1,4 @@
-Another Zoom Effect for React
+A Simple Zoom Effect for React
 -------------------------------------------
 
 These are some zoom effect React Components that are in progress as a personal project.
