@@ -1,6 +1,6 @@
 # ASZE For React
 
-This is a zoom effect React Component.
+These are some zoom effect React Components.
 This current app environment is made with Vite, using Typescript + SWC.
 
 All the components are in the src/components dir & styles are in the src/styles dir.
